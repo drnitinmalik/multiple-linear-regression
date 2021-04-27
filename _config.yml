@@ -1,8 +1,8 @@
 theme: jekyll-theme-cayman
-title: Simple Linear Regression
-tagline: Regression line, Overfitting, Underfitting, Bias, Variance
+title: Multiple Linear Regression
+tagline: Regression plane, Overfitting, Underfitting, Bias, Variance
 description: Pre-regression steps, Regression model, Post-regression analysis
-baseurl: /simple-linear-regression/
+baseurl: /multiple-linear-regression/
 url: https://drnitinmalik.github.io
 show_downloads: true
 future: true
